@@ -1,5 +1,8 @@
 # ☕ Coffee Shop Inventory System
 
+> [!IMPORTANT]
+> **Template Project**: This project is a **template** designed to demonstrate the structure for using Markdown with Antigravity. The content within the Markdown files (such as the coffee shop inventory example) serves only as illustrative examples.
+
 A **Mobile-First**, **Offline-Capable** Inventory Management System designed for speed and reliability. Built with the latest web technologies to ensure a "Zero Latency" experience for baristas and staff.
 
 ## 🚀 Tech Stack (Bleeding Edge)

@@ -1,4 +1,4 @@
-ช่วยเขียน Unit Test ให้หน่อย โดยใช้ Pattern แบบนี้เท่านั้น:
+Help write a Unit Test using this exact Pattern:
 
 ```typescript
 // Example Pattern
