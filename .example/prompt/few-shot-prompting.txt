@@ -1,0 +1,8 @@
+ช่วยเขียน Unit Test ให้หน่อย โดยใช้ Pattern แบบนี้เท่านั้น:
+
+```typescript
+// Example Pattern
+test('should return 200 on success', async () => {
+  const res = await callApi();
+  expect(res.status).toBe(200);
+});

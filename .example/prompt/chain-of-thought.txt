@@ -1,0 +1,6 @@
+## Task: สร้างหน้า Login
+ช่วยสร้างหน้า Login โดยทำตามขั้นตอนต่อไปนี้:
+
+- [ ] **UI Setup:** สร้างฟอร์มที่มี Email, Password และปุ่ม Submit โดยใช้ Tailwind
+- [ ] **Validation:** เพิ่ม Zod schema เพื่อตรวจสอบว่า Email ถูกต้อง และ Password ยาวเกิน 8 ตัว
+- [ ] **Integration:** เชื่อมต่อกับ Supabase Auth function ที่เรามีอยู่แล้ว
